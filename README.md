@@ -4,7 +4,7 @@ The aim of this project is to implement dictionary using relevant data structure
 
 ## Proposed operations
 
-INSERT: to enter words and their meanings in the BST
+INSERT: to enter words and their meanings in the BST 
 SEARCH: to search for specific words in the BST
 DELETE: to remove a word and its meaning from the BST
 TRAVERSE: to display all the elements present in the BST in lexicographical order
